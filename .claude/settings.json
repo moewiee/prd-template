@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(./**)",
+      "Write(./prds/**)",
+      "Edit(./prds/**)",
+      "WebSearch",
+      "WebFetch"
+    ]
+  }
+}
