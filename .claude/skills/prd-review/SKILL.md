@@ -2,7 +2,6 @@
 name: prd-review
 description: Review an existing PRD for quality and gaps without changing it. Use when the user asks to review, validate, critique, or score a PRD (in prds/ or any markdown file).
 argument-hint: "[prds/<slug> | path/to/prd.md]"
-disable-model-invocation: true
 ---
 
 # PRD Review

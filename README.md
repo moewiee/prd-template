@@ -34,6 +34,8 @@ During the interview, you can say:
 | `draft now` | Stop asking and write the PRD from what's known |
 | `pause` | Save progress; resume later with `/prd <slug>` |
 
+See **[USER_MANUAL.md](USER_MANUAL.md)** for 14 worked use cases with example conversations.
+
 Other commands:
 - `/prd <slug>`: resume an interview, or update a finished PRD.
 - `/prd-review prds/<slug>`: critique any PRD against the quality rubric (works on PRDs written elsewhere too).
